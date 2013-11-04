@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- application level -->
+    <string name="appName">Loop Pedal</string>
+    <string name="Mmenu">Projects</string>
+    <string name="menu_settings">Settings</string>
+    
+    <!-- activity SelectProjects -->
+    <string name="add">Add New</string>
+    <string name="delete">Delete First</string>
+    <string name="hello">Hello</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!-- activity AddProject -->
+    <string name="title_activity_add_project">AddProject</string>
+    <string name="title_activity_pedal_activity">Pedal</string>
+    <string name="tvTitle">Add Project</string>
+    <string name="tvName">Project Name:</string>
+	<string name="etName">Enter name of new project</string>
+	
+	<!-- activity LoopPedal -->
+	<string name="labelLoopPedal">Loop Pedal</string>
+	<string name="bRecord">Record</string>
+    <string name="bPlayback">Playback</string>
+    <string name="tbLoop">Loop</string>
+    <string name="tvLoopLabel">Toggle Loop:</string>
+    <string name="tvCounterDefault">00:00</string>
+    <string name="bSubmit">Submit</string>
+    <string name="Stop">Stop</string>
+    <string name="Chronometer">chronometer</string>
+    
+    <!-- activity PedalActivity -->
+    <string name="labelPedalActivity">Loop Pedal</string>
+    <string name="bPedal1">Play/Record</string>
+    <string name="bPedal2">Stop/Reset</string>
+    <string name="tvPedal">:00 / :00</string>
+	
+</resources>
